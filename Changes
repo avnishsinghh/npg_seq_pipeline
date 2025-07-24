@@ -1,6 +1,9 @@
 LIST OF CHANGES
 ---------------
 
+ - add archive_irods_locations_to_ml_warehouse to analysis pipeline via
+   function_list_central.json
+  
 release 68.12.0 (2025-07-16)
  - add flags to allow optional specification of first tile and tile limit for
    stage1 i2b
